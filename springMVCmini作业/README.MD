@@ -12,4 +12,5 @@
    * 核心控制器将结果返回给客户端
    
 ##2、自己手写一个Mini版本的SpringMVC。
--[x] [springmvcmini](https://github.com/shenxiaolei123/deginwork/tree/master/springMVCmini%E4%BD%9C%E4%B8%9A/springmvcmini)
+
+- [x] [springmvcmini](https://github.com/shenxiaolei123/deginwork/tree/master/springMVCmini%E4%BD%9C%E4%B8%9A/springmvcmini)
