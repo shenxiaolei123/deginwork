@@ -10,5 +10,6 @@
    * 由找到的适配器，调用实现对应接口的处理器，并将结果返回给适配器，结果中包含数据模型和视图对象ModelAndView，再由适配器返回给核心控制器
    * 核心控制器将获取的数据和视图结合的对象传递给视图解析器ViewResolver，获取解析得到的结果，并由视图解析器响应给核心控制器
    * 核心控制器将结果返回给客户端
+   
 ##2、自己手写一个Mini版本的SpringMVC。
 -[x] [springmvcmini](https://github.com/shenxiaolei123/deginwork/tree/master/springMVCmini%E4%BD%9C%E4%B8%9A/springmvcmini)
